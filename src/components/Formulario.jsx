@@ -207,5 +207,5 @@ const Formulario = ({pacientes, setPacientes, paciente, setPaciente}) => {//Extr
     </div>
   )
 }
-
+//jajajaj
 export default Formulario
