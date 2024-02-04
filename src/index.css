@@ -1,0 +1,4 @@
+@tailwind base;/*directivas son para mandar a llaar los archivis internos */
+@tailwind components;
+@tailwind utilities;
+
